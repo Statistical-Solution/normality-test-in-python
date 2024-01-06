@@ -4,8 +4,8 @@ Suppose we take data set about an electronics and there is a variable is purchas
 
 For testing normality we used: <br>
 * Visual methods
- * Histogram
- * Q-Q plots
+  * Histogram
+  * Q-Q plots
 
 * Statistical test
    * Shapiro-Wilk test
